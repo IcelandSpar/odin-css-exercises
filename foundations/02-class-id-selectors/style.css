@@ -1,12 +1,12 @@
 p.light-red,
 p.font-text {
     background-color: rgb(252, 163, 163);
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
   }
 
 
 #blue-text-font-size {
-  color: blue;
+  color: #0000ff;
   font-size:36px;
 
 }
