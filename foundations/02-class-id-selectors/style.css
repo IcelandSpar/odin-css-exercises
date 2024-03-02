@@ -1,0 +1,24 @@
+p.light-red,
+p.font-text {
+    background-color: rgb(252, 163, 163);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+  }
+
+
+#blue-text-font-size {
+  color: blue;
+  font-size:36px;
+
+}
+
+p.three-font-size {
+  font-size:24px;
+
+}
+
+div.fourth-element {
+  background-color: rgb(173, 247, 173);
+  font-size:24px;
+  font-weight: bold;
+
+}
